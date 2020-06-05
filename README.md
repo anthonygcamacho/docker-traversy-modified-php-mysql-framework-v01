@@ -1,6 +1,6 @@
 
 
-# Docker Traversy Modified PHP Framework v01
+# Docker Traversy Modified PHP Mysql Framework v01
 
 
 ## Table of Contents
