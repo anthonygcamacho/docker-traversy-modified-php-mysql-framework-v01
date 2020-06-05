@@ -1,0 +1,3 @@
+/app/helpers/env.php
+/app/vendor
+/app/composer.lock
