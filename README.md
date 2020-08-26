@@ -10,11 +10,9 @@
 3. App Setup
 4. Adding a New page
 
-
 ## References
 
 Based on Udemy Course, [Object Oriented PHP & MVC](https://www.udemy.com/course/object-oriented-php-mvc/) by [Brad Traversy](https://www.udemy.com/user/brad-traversy/)
-
 
 
 ## File / Folder Structure
@@ -168,7 +166,15 @@ Example 2:
 
 
 
-<!-- ## Markdown Cheat Sheet
+<!-- 
+
+## Todos
+
+1. Sitemap builder
+2. Models
+3. Section File/Folder Structure 
+
+## Markdown Cheat Sheet
 
 ### Headers
 
